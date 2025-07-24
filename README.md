@@ -77,5 +77,5 @@ This is a simple web application that predicts a user's BMI category based on th
 ## 📬 Contact
 
 For questions or suggestions, contact:  
-**Adari Lakshmi Sai Siva Ganesh**  
-📧 [shivaganeshadari@gmail.com](mailto:shivaganeshadari@gmail.com)
+**Dandu Balu Mahendar**  
+📧 [balumahendhar02@gmail.com](mailto:balumahendar02@gmail.com)
